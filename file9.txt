@@ -1,1 +1,1 @@
-checking -a command
+checking commit command for -a option
